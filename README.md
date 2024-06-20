@@ -1,5 +1,7 @@
 # Simple Regression Analysis
 
+Luqman Ardiseno 13320021
+
 This repository contains a simple regression analysis performed on a dataset of sales and advertising costs. The analysis aims to predict the advertising cost based on given sales values.
 
 ## Dataset
